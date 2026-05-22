@@ -19,7 +19,6 @@
 - 🎵 Music + Coding = Perfect Combo
 - 💻 Passionate about Backend & Full Stack Development
 - 🚀 Building scalable systems and creative web experiences
-- 🎮 Roblox/Minecraft aesthetic lover
 - ⚡ Exploring AI, DevOps & Cybersecurity
 
 ---
@@ -93,15 +92,15 @@ A cryptocurrency tracking platform with portfolio monitoring, API integrations, 
   <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="YOUR_LINKEDIN_LINK">
+<a href="https://www.linkedin.com/in/aditya-raj-90349328a/">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="mailto:YOUR_GMAIL">
+<a href="mailto:raj2004jsr@@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
-<a href="YOUR_LEETCODE_LINK">
+<a href="https://leetcode.com/u/ump7FTbHfV/">
   <img width="48" height="48" src="https://cdn.simpleicons.org/leetcode" />
 </a>
 
