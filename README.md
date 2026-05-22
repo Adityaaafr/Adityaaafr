@@ -1,9 +1,8 @@
 <p align="center">
-  <img src="https://github.com/Adityaaafr/Adityaaafr/blob/main/ChatGPT%20Image%20May%2022%2C%202026%2C%2002_12_41%20PM.png" />
+  <img src="YOUR_BANNER_LINK_HERE" width="100%" />
 </p>
 
 <h1 align="center">👾 Aditya Raj</h1>
-<h1 align= "center"> SIC.PARVIS.MAGNA</h1>
 
 <p align="center">
   <b>CSE Engineer • Backend Developer • Creator</b>
@@ -20,6 +19,7 @@
 - 🎵 Music + Coding = Perfect Combo
 - 💻 Passionate about Backend & Full Stack Development
 - 🚀 Building scalable systems and creative web experiences
+- 🎮 Roblox/Minecraft aesthetic lover
 - ⚡ Exploring AI, DevOps & Cybersecurity
 
 ---
@@ -57,9 +57,9 @@ A cryptocurrency tracking platform with portfolio monitoring, API integrations, 
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Adityaaafr&show_icons=true&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adityaaafr&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityaaafr&layout=compact&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityaaafr&layout=compact&theme=tokyonight&hide_border=true" />
 
 </p>
 
@@ -69,7 +69,7 @@ A cryptocurrency tracking platform with portfolio monitoring, API integrations, 
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Adityaaafr&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=Adityaaafr&theme=tokyonight&hide_border=true" />
 
 </p>
 
@@ -91,6 +91,18 @@ A cryptocurrency tracking platform with portfolio monitoring, API integrations, 
 
 <a href="https://github.com/Adityaaafr">
   <img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="YOUR_LINKEDIN_LINK">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:YOUR_GMAIL">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="YOUR_LEETCODE_LINK">
+  <img width="48" height="48" src="https://cdn.simpleicons.org/leetcode" />
 </a>
 
 </p>
