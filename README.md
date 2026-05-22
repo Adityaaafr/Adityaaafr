@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="YOUR_BANNER_LINK_HERE" />
+  <img src="https://github.com/Adityaaafr/Adityaaafr/blob/main/ChatGPT%20Image%20May%2022%2C%202026%2C%2002_12_41%20PM.png" />
 </p>
 
 <h1 align="center">👾 Aditya Raj</h1>
