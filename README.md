@@ -40,7 +40,7 @@ Status: ONLINE
 - 💻 Passionate about Backend & Full Stack Development
 - 🚀 Building scalable systems and creative web experiences
 - ⚡ Exploring AI, DevOps & Cybersecurity
-- 🎮 Cyber + Roblox + Pixel Aesthetic Enthusiast
+
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=3&section=header"/>
 
