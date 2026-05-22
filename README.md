@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👾 Aditya Raj
 
-<!--
-**Adityaaafr/Adityaaafr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```txt
+Building systems one block at a time...
+```
 
-Here are some ideas to get you started:
+## 🎮 About Me
+- 💻 CSE Engineering Student
+- 🚀 Backend & Web Developer
+- 🧠 Learning AI + DevOps
+- 🎵 Music + Coding = Perfect Combo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ⚒️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![NodeJS](https://img.shields.io/badge/NodeJS-black?style=for-the-badge&logo=node.js)
+
+---
+
+## 🕹️ Current Projects
+- Notify System
+- Crypto Portfolio Tracker
+- VOIP Encryption Website
+- Healthcare Laravel Project
+
+---
+
+## 🌌 Profile Views
+
+![](https://komarev.com/ghpvc/?username=Adityaaafr&color=blueviolet)
